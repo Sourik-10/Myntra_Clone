@@ -4,11 +4,6 @@ A front-end clone of the Myntra e-commerce website, developed using HTML, CSS, a
 
 ---
 
-## 🔗 Live Link
-
-**Hosted on Heroku:** [https://newmyntra.herokuapp.com/home](https://newmyntra.herokuapp.com/home)
-
----
 
 ## 📸 Screenshots
 
